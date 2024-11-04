@@ -12,4 +12,4 @@ s2 = input("True or False: ")
 bool1 = s1.strip() == "True"
 bool2 = s2.strip() == "True"
 
-print(s1 and s2)
+print(bool1 or bool2)
